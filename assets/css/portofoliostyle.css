@@ -5,7 +5,8 @@ body {
 }
 
 #page-wraper {
-    background-image: url("page_bg.jpg") no-repeat center center fixed;
+background:black;
+    /*background: url("page_bg.jpg") no-repeat center center fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
